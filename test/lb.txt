@@ -1,0 +1,9 @@
+[Setup]
+公告地址=https://pages.chenyachao.com/test/mini.html
+官方首页=https://pages.chenyachao.com/test/mini.html
+自动刷新=0
+刷新速度=60
+
+[Server]
+0=电信服务器|仙剑情缘|仙剑情缘|101.132.186.222|7000|0|127.0.0.1|0|0
+
